@@ -29,4 +29,6 @@ Run "grunt build" from repo directory to install project dependencies from bower
 
 Run "grunt run" from repo directory and follow console instructions to open default localhost:3000 port to view site.
 
-Run "grunt watch" from repo directory to file watch and follow console instructions to open default localhost:3000 port to view site. (Recommended)
+Run "grunt watch" from repo directory to file watch and follow console instructions to open default localhost:3000 port to view site. (Recommended for development)
+
+Run "grunt dist" from repo directory to jshint, compile js and css into disbrution-ready, minified code, and file watch by following console instructions to open default localhost:3000 port to view site. (Recommended for production disbrution)
