@@ -1,13 +1,11 @@
-shape_yanker
+express-on-handlebars-template
 =================
 
-Shape Yanker
+Express on Handlebars Template
 
 ##Overview
 
-Project to utilize various technologies including Node, Express, Handlebars, Canvas API, and jQuery UI.  
-
-Application allows users to drag shapes created inside a canvas element around the web page.
+Project template set up for a Node ExpressJS app using Handlebars templating engine. Implements MVC structure (models not included by default). Utilizes requirejs, grunt, and bower for development dependencies.
 
 ##Setup
 
