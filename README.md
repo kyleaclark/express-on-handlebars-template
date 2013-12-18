@@ -1,11 +1,15 @@
 express-on-handlebars-template
-=================
+============
 
-Express on Handlebars Template
+##Authored Date
+
+November 2013
+
+(last edit: December 2013)
 
 ##Overview
 
-Project template set up for a Node ExpressJS app using Handlebars templating engine. Implements MVC structure (models not included by default). Utilizes requirejs, grunt, and bower for development dependencies.
+Created as a personal application.  The application is a project template set up for a Node ExpressJS app using the Handlebars templating engine. Implements MVC structure (however, the Models folder was not included by default). Utilizes requirejs, grunt, and bower for development dependencies.
 
 ##Setup
 
