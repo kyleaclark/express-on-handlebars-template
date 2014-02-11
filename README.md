@@ -14,11 +14,17 @@ Created as a personal application.  The application is a project template set up
 ##Technologies
 
 JavaScript
+
 NodeJS
+
 ExpressJS
+
 Grunt
+
 Bower
+
 RequireJS
+
 Handlebars
 
 
