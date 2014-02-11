@@ -11,6 +11,17 @@ November 2013
 
 Created as a personal application.  The application is a project template set up for a Node ExpressJS app using the Handlebars templating engine. Implements MVC structure (however, the Models folder was not included by default). Utilizes requirejs, grunt, and bower for development dependencies.
 
+##Technologies
+
+JavaScript
+NodeJS
+ExpressJS
+Grunt
+Bower
+RequireJS
+Handlebars
+
+
 ##Setup
 
 Install Express dependencies [Node via nodejs.org] - refer to http://expressjs.com/guide.html.
